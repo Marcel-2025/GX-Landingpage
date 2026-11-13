@@ -1,0 +1,57 @@
+<de-DE>
+Erste Version bei Google Play: ROMs-Ordner freigeben, Konsolen werden automatisch erkannt, Cover werden offline gespeichert. Bogen, Cover Flow, Raster und Liste, Suche, Favoriten und Emulator-Start pro Konsole sind kostenlos. Optional GX Premium (Abo oder Lifetime) für alle Designs, weitere Ansichten, Spielstände, Cheats und Statistik. Spiele und Emulatoren separat erforderlich.
+</de-DE>
+<en-US>
+First release on Google Play: grant access to your ROMs folder, consoles are detected automatically, covers are stored offline. Arc, cover flow, grid and list views, search, favourites and emulator launch per console are free. Optional GX Premium (subscription or lifetime) unlocks all themes, more views, save data, cheats and statistics. Games and emulators required separately.
+</en-US>
+<en-GB>
+First release on Google Play: grant access to your ROMs folder, consoles are detected automatically, covers are stored offline. Arc, cover flow, grid and list views, search, favourites and emulator launch per console are free. Optional GX Premium (subscription or lifetime) unlocks all themes, more views, save data, cheats and statistics. Games and emulators required separately.
+</en-GB>
+<fr-FR>
+Première version sur Google Play : autorisez l'accès à votre dossier de ROM, les consoles sont détectées automatiquement et les jaquettes sont enregistrées hors ligne. Arc, Cover Flow, grille et liste, recherche, favoris et lancement de l'émulateur par console sont gratuits. GX Premium en option (abonnement ou à vie) débloque tous les thèmes, plus de vues, les sauvegardes, les cheats et les statistiques. Jeux et émulateurs non inclus.
+</fr-FR>
+<es-ES>
+Primera versión en Google Play: da acceso a tu carpeta de ROMs, las consolas se detectan automáticamente y las portadas se guardan sin conexión. Arco, Cover Flow, cuadrícula y lista, búsqueda, favoritos e inicio del emulador por consola son gratis. GX Premium opcional (suscripción o de por vida) desbloquea todos los temas, más vistas, partidas guardadas, trucos y estadísticas. Juegos y emuladores no incluidos.
+</es-ES>
+<es-419>
+Primera versión en Google Play: da acceso a tu carpeta de ROMs, las consolas se detectan automáticamente y las portadas se guardan sin conexión. Arco, Cover Flow, cuadrícula y lista, búsqueda, favoritos e inicio del emulador por consola son gratis. GX Premium opcional (suscripción o de por vida) desbloquea todos los temas, más vistas, partidas guardadas, trucos y estadísticas. Juegos y emuladores no incluidos.
+</es-419>
+<it-IT>
+Prima versione su Google Play: concedi l'accesso alla cartella delle ROM, le console vengono riconosciute automaticamente e le copertine salvate offline. Arco, Cover Flow, griglia ed elenco, ricerca, preferiti e avvio dell'emulatore per console sono gratuiti. GX Premium opzionale (abbonamento o a vita) sblocca tutti i temi, altre viste, salvataggi, trucchi e statistiche. Giochi ed emulatori non inclusi.
+</it-IT>
+<pt-BR>
+Primeira versão no Google Play: libere o acesso à sua pasta de ROMs, os consoles são detectados automaticamente e as capas ficam salvas offline. Arco, Cover Flow, grade e lista, busca, favoritos e abertura do emulador por console são gratuitos. O GX Premium opcional (assinatura ou vitalício) desbloqueia todos os temas, mais visualizações, saves, cheats e estatísticas. Jogos e emuladores não incluídos.
+</pt-BR>
+<pt-PT>
+Primeira versão no Google Play: dê acesso à sua pasta de ROMs, as consolas são detetadas automaticamente e as capas ficam guardadas offline. Arco, Cover Flow, grelha e lista, pesquisa, favoritos e início do emulador por consola são gratuitos. O GX Premium opcional (subscrição ou vitalício) desbloqueia todos os temas, mais vistas, jogos guardados, cheats e estatísticas. Jogos e emuladores não incluídos.
+</pt-PT>
+<nl-NL>
+Eerste versie op Google Play: geef toegang tot je ROM-map, consoles worden automatisch herkend en covers offline opgeslagen. Boog, Cover Flow, raster en lijst, zoeken, favorieten en de emulator per console starten zijn gratis. Optioneel GX Premium (abonnement of levenslang) ontgrendelt alle thema's, meer weergaven, savegames, cheats en statistieken. Games en emulators niet inbegrepen.
+</nl-NL>
+<pl-PL>
+Pierwsza wersja w Google Play: udostępnij folder z ROM-ami, konsole są rozpoznawane automatycznie, a okładki zapisywane offline. Łuk, Cover Flow, siatka i lista, wyszukiwanie, ulubione oraz uruchamianie emulatora dla każdej konsoli są bezpłatne. Opcjonalne GX Premium (subskrypcja lub dożywotnio) odblokowuje wszystkie motywy, więcej widoków, zapisy gier, kody i statystyki. Gry i emulatory nie są dołączone.
+</pl-PL>
+<tr-TR>
+Google Play'deki ilk sürüm: ROM klasörüne erişim ver, konsollar otomatik algılanır, kapaklar çevrimdışı kaydedilir. Kemer, Cover Flow, ızgara ve liste görünümü, arama, favoriler ve konsola göre emülatör başlatma ücretsizdir. İsteğe bağlı GX Premium (abonelik veya ömür boyu) tüm temaları, ek görünümleri, kayıtları, hileleri ve istatistikleri açar. Oyunlar ve emülatörler dahil değildir.
+</tr-TR>
+<ru-RU>
+Первая версия в Google Play: откройте доступ к папке с ROM, консоли определяются автоматически, обложки сохраняются офлайн. Дуга, Cover Flow, сетка и список, поиск, избранное и запуск эмулятора для каждой консоли бесплатны. Дополнительный GX Premium (подписка или навсегда) открывает все темы, другие виды, сохранения, читы и статистику. Игры и эмуляторы не входят в комплект.
+</ru-RU>
+<uk>
+Перша версія в Google Play: надайте доступ до папки з ROM, консолі визначаються автоматично, обкладинки зберігаються офлайн. Дуга, Cover Flow, сітка і список, пошук, обране та запуск емулятора для кожної консолі безкоштовні. Додатковий GX Premium (підписка або назавжди) відкриває всі теми, інші види, збереження, чити та статистику. Ігри та емулятори не входять до комплекту.
+</uk>
+<ja-JP>
+Google Play での最初のリリース：ROM フォルダへのアクセスを許可すると、機種が自動で判別され、カバー画像はオフラインで保存されます。アーク、カバーフロー、グリッド、リスト表示、検索、お気に入り、機種ごとのエミュレーター起動は無料です。オプションの GX Premium（サブスクリプションまたは買い切り）で、すべてのテーマ、追加の表示、セーブデータ、チート、統計が使えます。ゲームとエミュレーターは別途必要です。
+</ja-JP>
+<ko-KR>
+Google Play 첫 출시: ROM 폴더 접근을 허용하면 콘솔이 자동으로 인식되고 커버는 오프라인으로 저장됩니다. 아크, 커버 플로우, 그리드, 목록 보기, 검색, 즐겨찾기, 콘솔별 에뮬레이터 실행은 무료입니다. 선택 사항인 GX Premium(구독 또는 평생)으로 모든 테마, 추가 보기, 세이브 데이터, 치트, 통계를 사용할 수 있습니다. 게임과 에뮬레이터는 별도로 필요합니다.
+</ko-KR>
+<zh-CN>
+Google Play 首个版本：授权访问你的 ROM 文件夹，自动识别主机，封面离线保存。弧形、封面流、网格和列表视图、搜索、收藏以及按主机启动模拟器均免费。可选 GX Premium（订阅或永久）解锁全部主题、更多视图、存档、金手指和统计。游戏和模拟器需另行准备。
+</zh-CN>
+<zh-TW>
+Google Play 首個版本：授權存取你的 ROM 資料夾，自動辨識主機，封面離線儲存。弧形、封面流、格狀和清單檢視、搜尋、我的最愛以及依主機啟動模擬器皆免費。可選 GX Premium（訂閱或永久）解鎖所有主題、更多檢視、存檔、金手指和統計。遊戲和模擬器需另外準備。
+</zh-TW>
+<sv-SE>
+Första versionen på Google Play: ge åtkomst till din ROM-mapp, konsoler känns igen automatiskt och omslag sparas offline. Båge, Cover Flow, rutnät och lista, sökning, favoriter och start av emulator per konsol är gratis. Valfritt GX Premium (prenumeration eller livstid) låser upp alla teman, fler vyer, sparfiler, fusk och statistik. Spel och emulatorer ingår inte.
+</sv-SE>
