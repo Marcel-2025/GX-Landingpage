@@ -1,0 +1,52 @@
+/* Shared materials. Each theme supplies its own canvas, accent and surface treatment. */
+body.gx-skin {
+  --bg: #100813; --accent: #ff6586; --ink: #f4f5fa; --muted: #b6b8c6;
+  --panel: color-mix(in srgb,var(--bg) 86%,var(--accent));
+  --line: color-mix(in srgb,var(--accent) 30%,var(--bg));
+  --wash: radial-gradient(ellipse at 80% 15%,color-mix(in srgb,var(--accent) 17%,transparent),transparent 55%);
+  background: var(--wash),var(--bg); background-attachment: fixed;
+}
+body.bright { --ink:#132b43; --muted:#314e64 }
+body[data-fx="ruby"] { --wash: radial-gradient(ellipse at 85% 25%,#db00322e,transparent 50%),linear-gradient(123deg,transparent 45%,#ea204211 49%,transparent 62%) }
+body[data-fx="smoke"] { --wash: linear-gradient(145deg,#75809028,transparent 20%,#ffffff18 20.15%,transparent 20.5% 69%,#ffffff13 69.2%,transparent 70%) }
+body[data-fx="crt"] { --wash: repeating-linear-gradient(0deg,transparent 0 3px,#8fffd509 3px 4px),radial-gradient(ellipse at top,#46e6bb1f,transparent 55%) }
+body[data-fx="aurora"] { --wash: radial-gradient(ellipse at 5% 18%,#13b49138,transparent 44%),radial-gradient(ellipse at 97% 30%,#8f39d749,transparent 48%) }
+body[data-fx="neon"] { --wash: radial-gradient(at 18% 55%,#ef135220,transparent 45%),radial-gradient(at 90% 18%,#00bbff30,transparent 44%) }
+body[data-fx="black"] { --wash: linear-gradient(transparent,#20202033) }
+.theme-shortcut,.text-link { color:var(--ink); text-decoration:underline; text-underline-offset:5px }
+.theme-shortcut { font-size:13px }
+.icon-stage { width:100%; aspect-ratio:auto; padding:16px; margin:0; gap:12px }
+#showcase-icon { display:block; width:min(100%,340px); height:auto; box-shadow:0 18px 72px color-mix(in srgb,var(--accent) 20%,transparent) }
+.current-look { color:var(--muted); font-size:13px; letter-spacing:.04em }
+.look-picker { grid-column:1/-1; padding-block:12px }
+.look-picker h2 { font-size:24px; letter-spacing:-.7px; margin:0 0 16px }
+.look-options { display:grid; grid-template-columns:repeat(auto-fit,minmax(142px,1fr)); gap:8px }
+.look-choice,.preview-tabs button {
+  display:flex; align-items:center; gap:9px; padding:7px; border-radius:12px;
+  border:1px solid var(--line); color:var(--ink); background:var(--panel); font-size:12px; text-align:left;
+}
+.look-choice img { border-radius:6px; width:40px; height:40px }
+.look-choice[aria-pressed="true"],.preview-tabs [aria-pressed="true"] {
+  border-color:var(--accent); box-shadow:inset 0 0 0 1px var(--accent),0 0 18px color-mix(in srgb,var(--accent) 22%,transparent);
+}
+.button { background:var(--accent); color:var(--bg); box-shadow:0 4px 28px color-mix(in srgb,var(--accent) 20%,transparent) }
+.bright .button { color:white }
+.feature,.preview-shell,.platform-grid article,details,.look-choice {
+  background:linear-gradient(145deg,color-mix(in srgb,var(--ink) 10%,var(--panel)),color-mix(in srgb,var(--panel) 68%,transparent) 50%,var(--panel));
+  backdrop-filter:blur(14px); border:1px solid var(--line); box-shadow:inset 0 1px 0 #ffffff22;
+}
+.platform-grid article,details { border-radius:16px; padding:22px }
+details + details { margin-top:8px }
+.preview-shell { min-width:0; padding:14px; border-radius:24px }
+.preview-head,.preview-tabs { display:flex; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:12px }
+.preview-head span { margin-left:auto; font-size:12px; color:var(--accent) }
+.preview-tabs button { padding:6px 12px }
+.preview-image,.preview-image img { display:block; width:100%; height:auto }
+.quote-section,.access { background:linear-gradient(120deg,transparent,var(--panel),transparent) }
+.brand img,.access img { box-shadow:0 0 24px color-mix(in srgb,var(--accent) 28%,transparent) }
+@keyframes neon-breathe { 50% { opacity:.52; transform:scale(1.035) } }
+.icon-stage { isolation:isolate }
+.icon-stage::before { content:""; position:absolute; inset:2% 9%; z-index:-1; background:radial-gradient(ellipse,color-mix(in srgb,var(--accent) 33%,transparent),transparent 70%); animation:neon-breathe 4.8s ease-in-out infinite }
+@media(max-width:900px) { .hero { gap:18px }.icon-stage { width:100%; margin:0; aspect-ratio:auto } #showcase-icon { width:min(68vw,280px) } }
+@media(max-width:520px) { .look-options { grid-template-columns:repeat(2,minmax(0,1fr)) } .look-choice { font-size:11px } header { gap:8px } .controls { gap:7px } }
+@media(prefers-reduced-motion:reduce) { .icon-stage::before { animation:none } }
