@@ -94,6 +94,42 @@ const looks = [
     "bg": "#140c22",
     "accent": "#d4a5ff",
     "fx": "glass"
+  },
+  {
+    "key": "emerald",
+    "de": "Smaragd · Violett",
+    "en": "Emerald · Violet",
+    "bg": "#0b1118",
+    "accent": "#69efbc",
+    "light": "#c999ff",
+    "fx": "duo"
+  },
+  {
+    "key": "sapphire",
+    "de": "Saphir · Gold",
+    "en": "Sapphire · Gold",
+    "bg": "#0a1020",
+    "accent": "#80b6ff",
+    "light": "#ffcd72",
+    "fx": "duo"
+  },
+  {
+    "key": "rose",
+    "de": "Roségold · Türkis",
+    "en": "Rose Gold · Turquoise",
+    "bg": "#180e16",
+    "accent": "#ffb9bf",
+    "light": "#67ebda",
+    "fx": "duo"
+  },
+  {
+    "key": "copper",
+    "de": "Kupfer · Eisblau",
+    "en": "Copper · Ice Blue",
+    "bg": "#150f11",
+    "accent": "#ffb07d",
+    "light": "#83dfff",
+    "fx": "duo"
   }
 ];
 const body = document.body;
@@ -113,6 +149,7 @@ function chooseLook(key) {
   body.classList.toggle('bright', active.fx === 'ice');
   body.style.setProperty('--bg', active.bg);
   body.style.setProperty('--accent', active.accent);
+  body.style.setProperty('--light', active.light || active.accent);
   document.querySelectorAll('[data-brand-icon]').forEach(img => {
     img.src = 'assets/themes/' + active.key + (img.id === 'showcase-icon' ? '.webp' : '-thumb.webp');
   });

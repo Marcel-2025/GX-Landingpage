@@ -78,3 +78,12 @@ details + details { margin-top:8px }
 .price-grid p {color:var(--muted); font-size:14px}
 .price-grid strong {color:var(--accent)}
 @media(max-width:900px) {.icon-frame {width:min(68vw,280px)}}
+
+body[data-fx="duo"] {
+  --wash: radial-gradient(ellipse at 12% 20%, color-mix(in srgb,var(--accent) 18%,transparent), transparent 52%),
+          radial-gradient(ellipse at 90% 40%, color-mix(in srgb,var(--light) 20%,transparent), transparent 55%);
+}
+[data-fx="duo"] .icon-frame,
+[data-fx="duo"] .button { background:linear-gradient(125deg,var(--accent),var(--light)) }
+[data-fx="duo"] .palette-heading strong,
+[data-fx="duo"] .price-grid strong { color:var(--light) }
