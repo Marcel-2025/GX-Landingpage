@@ -8,20 +8,20 @@ const looks = [
     "fx": "ice"
   },
   {
-    "key": "cobalt",
-    "de": "Kobaltglas",
-    "en": "Cobalt Glass",
-    "bg": "#080f32",
-    "accent": "#55c8ff",
-    "fx": "glass"
-  },
-  {
     "key": "laser",
     "de": "Neon Ice",
     "en": "Neon Ice",
     "bg": "#071d2d",
     "accent": "#ff7396",
     "fx": "neon"
+  },
+  {
+    "key": "cobalt",
+    "de": "Kobaltglas",
+    "en": "Cobalt Glass",
+    "bg": "#080f32",
+    "accent": "#55c8ff",
+    "fx": "glass"
   },
   {
     "key": "ruby",
@@ -78,6 +78,22 @@ const looks = [
     "bg": "#080e18",
     "accent": "#75ebc9",
     "fx": "aurora"
+  },
+  {
+    "key": "gold",
+    "de": "Schwarzgold",
+    "en": "Black Gold",
+    "bg": "#100d09",
+    "accent": "#ffd27a",
+    "fx": "glass"
+  },
+  {
+    "key": "amethyst",
+    "de": "Amethyst",
+    "en": "Amethyst",
+    "bg": "#140c22",
+    "accent": "#d4a5ff",
+    "fx": "glass"
   }
 ];
 const body = document.body;
