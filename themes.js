@@ -126,11 +126,23 @@ function chooseLook(key) {
   lookButtons.forEach(button => button.setAttribute('aria-pressed', String(button.dataset.look === active.key)));
   updateName();
 }
+const designMenu = document.getElementById('looks');
+document.querySelectorAll('a[href="#looks"]').forEach(link => {
+  link.addEventListener('click', () => { designMenu.open = true; });
+});
+designMenu.addEventListener('keydown', event => {
+  if (event.key === 'Escape' && designMenu.open) {
+    designMenu.open = false;
+    designMenu.querySelector('summary').focus();
+  }
+});
 let initial = 'ruby';
 try { initial = localStorage.getItem('gx-look') || initial; } catch {}
 chooseLook(initial);
 lookButtons.forEach(button => button.addEventListener('click', () => {
   chooseLook(button.dataset.look);
+  designMenu.open = false;
+  designMenu.querySelector('summary').focus({ preventScroll: true });
   try { localStorage.setItem('gx-look', active.key); } catch {}
 }));
 document.getElementById('language').addEventListener('click', updateName);
