@@ -78,30 +78,6 @@ const looks = [
     "bg": "#080e18",
     "accent": "#75ebc9",
     "fx": "aurora"
-  },
-  {
-    "key": "ink",
-    "de": "Neon Ink",
-    "en": "Neon Ink",
-    "bg": "#140c1c",
-    "accent": "#ff588c",
-    "fx": "neon"
-  },
-  {
-    "key": "sky",
-    "de": "Sky Outline",
-    "en": "Sky Outline",
-    "bg": "#d2edff",
-    "accent": "#106493",
-    "fx": "ice"
-  },
-  {
-    "key": "arcade",
-    "de": "Arcade Red",
-    "en": "Arcade Red",
-    "bg": "#0a1730",
-    "accent": "#ff7698",
-    "fx": "ruby"
   }
 ];
 const body = document.body;
