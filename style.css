@@ -7,3 +7,5 @@ header{height:88px}.brand img{box-shadow:0 0 24px #2aafff42}.hero{grid-template-
 footer{flex-wrap:wrap;row-gap:12px}
 footer .legal-links{display:block;flex-basis:100%;font-size:13px;line-height:1.8;opacity:.85}
 footer .legal-links a{color:inherit;text-decoration:underline;text-underline-offset:3px}
+
+.glow-section .gallery{grid-template-columns:repeat(3,minmax(0,1fr))}.icons-title{margin:56px 0 6px;font-size:clamp(24px,3vw,34px)}.icons-note{color:var(--muted);margin:0 0 22px}.icon-strip{display:flex;flex-wrap:wrap;gap:18px}.icon-strip .ic{margin:0;text-align:center;width:92px}.icon-strip img{width:80px;height:80px;border-radius:20px;box-shadow:0 8px 22px #00000035,0 0 18px #3fb6ff30;transition:transform .2s}.icon-strip img:hover{transform:translateY(-4px) scale(1.05)}.icon-strip figcaption{font-size:12px;color:var(--muted);margin-top:8px}@media(max-width:900px){.glow-section .gallery{grid-template-columns:repeat(2,minmax(0,1fr))}}@media(max-width:520px){.glow-section .gallery{grid-template-columns:1fr}.icon-strip{gap:12px}.icon-strip .ic{width:72px}.icon-strip img{width:64px;height:64px;border-radius:16px}}
