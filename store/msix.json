@@ -1,10 +1,10 @@
 {
- "size": 157983397,
- "sha256": "cfd6f9af8ee3b845e946298b10afcc43ec4f115650235e495df526504caf161c",
+ "size": 157989609,
+ "sha256": "3e102f46b6f48bad1fbb72a5034bf8839904a40d04923dc6e2f2afd73e5c1a12",
  "parts": [
-  "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/store/GX-Launcher-Store-3.6.0.0.msix.part00",
-  "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/store/GX-Launcher-Store-3.6.0.0.msix.part01",
-  "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/store/GX-Launcher-Store-3.6.0.0.msix.part02",
-  "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/store/GX-Launcher-Store-3.6.0.0.msix.part03"
+  "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/store/GX-Launcher-Store-3.6.1.0.msix.part00",
+  "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/store/GX-Launcher-Store-3.6.1.0.msix.part01",
+  "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/store/GX-Launcher-Store-3.6.1.0.msix.part02",
+  "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/store/GX-Launcher-Store-3.6.1.0.msix.part03"
  ]
 }

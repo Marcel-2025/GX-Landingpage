@@ -1,26 +1,26 @@
 {
- "version": "3.6.0",
- "name": "Store Edition",
+ "version": "3.6.1",
+ "name": "Card Transfer",
  "notes": [
-  "Microsoft-Store-Version mit Premium, Abos und Design-Paketen",
-  "Automatische Updates für Portable und Steam Deck",
-  "Speicherkarten-Ansicht mit „Ausprobieren“ in Dolphin (3.5)"
+  "Spielstände zwischen Speicherkarten übertragen (mit .bak-Sicherung der Zielkarte)",
+  "GCI-Dateien auf eine Karte importieren",
+  "Leere Speicherkarten löschen (Papierkorb)"
  ],
  "win": {
-  "size": 84350921,
-  "sha256": "f7d4780d29960b23231a5ceaecc7effbff3b6cb73da63d5f009bf8b5068f1ace",
+  "size": 84354315,
+  "sha256": "d64e0419fc4eaffd4dc5d5db367438ad9f835116976780fb0d760b88e5c0f786",
   "parts": [
-   "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/v3.6.0/GX-Launcher-3.6.0-Portable.exe.part00",
-   "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/v3.6.0/GX-Launcher-3.6.0-Portable.exe.part01"
+   "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/v3.6.1/GX-Launcher-3.6.1-Portable.exe.part00",
+   "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/v3.6.1/GX-Launcher-3.6.1-Portable.exe.part01"
   ]
  },
  "linux": {
-  "size": 111159732,
-  "sha256": "eb23b9c4095e5cf1245c86b7735a3851551da9b824c85097b4d2be423dbf09bf",
+  "size": 111163951,
+  "sha256": "0258b2ffc3ebeaaec86e5f74d5fc64b729c548b45db460f7d8f2aab10a5d8904",
   "parts": [
-   "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/v3.6.0/GX-Launcher-3.6.0-SteamDeck.AppImage.part00",
-   "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/v3.6.0/GX-Launcher-3.6.0-SteamDeck.AppImage.part01",
-   "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/v3.6.0/GX-Launcher-3.6.0-SteamDeck.AppImage.part02"
+   "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/v3.6.1/GX-Launcher-3.6.1-SteamDeck.AppImage.part00",
+   "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/v3.6.1/GX-Launcher-3.6.1-SteamDeck.AppImage.part01",
+   "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/v3.6.1/GX-Launcher-3.6.1-SteamDeck.AppImage.part02"
   ]
  }
 }
