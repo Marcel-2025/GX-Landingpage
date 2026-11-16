@@ -1,0 +1,26 @@
+{
+ "version": "3.6.0",
+ "name": "Store Edition",
+ "notes": [
+  "Microsoft-Store-Version mit Premium, Abos und Design-Paketen",
+  "Automatische Updates für Portable und Steam Deck",
+  "Speicherkarten-Ansicht mit „Ausprobieren“ in Dolphin (3.5)"
+ ],
+ "win": {
+  "size": 84350921,
+  "sha256": "f7d4780d29960b23231a5ceaecc7effbff3b6cb73da63d5f009bf8b5068f1ace",
+  "parts": [
+   "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/v3.6.0/GX-Launcher-3.6.0-Portable.exe.part00",
+   "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/v3.6.0/GX-Launcher-3.6.0-Portable.exe.part01"
+  ]
+ },
+ "linux": {
+  "size": 111159732,
+  "sha256": "eb23b9c4095e5cf1245c86b7735a3851551da9b824c85097b4d2be423dbf09bf",
+  "parts": [
+   "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/v3.6.0/GX-Launcher-3.6.0-SteamDeck.AppImage.part00",
+   "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/v3.6.0/GX-Launcher-3.6.0-SteamDeck.AppImage.part01",
+   "https://raw.githubusercontent.com/Marcel-2025/GX-Landingpage/gx-updates/v3.6.0/GX-Launcher-3.6.0-SteamDeck.AppImage.part02"
+  ]
+ }
+}
