@@ -1,0 +1,8 @@
+f1|Windows/GX Launcher 3.7.0 Setup.exe
+f2|Windows/GX Launcher 3.7.0 Portable.exe (v3.7.0/)
+f3|Windows/GX Launcher-3.7.0-win.zip
+f4|Microsoft Store/GX-Launcher-Store-3.7.0.0.msix (store/)
+f5|Steam Deck/GX-Launcher-3.7.0-SteamDeck.AppImage (v3.7.0/)
+f6|Steam Deck/gx-launcher-3.7.0.tar.gz
+f7|Steam Deck/GX Launcher 3.7.0 Steam Deck Installer.zip
+f8|Steam Deck/GX Launcher 3.7.0 Steam Deck Portable.zip
