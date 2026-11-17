@@ -1,0 +1,8 @@
+f1|Windows/GX Launcher 3.6.1 Setup.exe
+f2|Windows/GX Launcher 3.6.1 Portable.exe
+f3|Windows/GX Launcher-3.6.1-win.zip
+f4|Microsoft Store/GX-Launcher-Store-3.6.1.0.msix
+f5|Steam Deck/GX-Launcher-3.6.1-SteamDeck.AppImage
+f6|Steam Deck/gx-launcher-3.6.1.tar.gz
+f7|Steam Deck/GX Launcher 3.6.1 Steam Deck Installer.zip
+f8|Steam Deck/GX Launcher 3.6.1 Steam Deck Portable.zip
