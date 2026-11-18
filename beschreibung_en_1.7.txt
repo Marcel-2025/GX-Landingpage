@@ -1,0 +1,43 @@
+GX Launcher brings your own game collection onto one screen – with a large cover flow inspired by classic console menus.
+
+Grant access to your ROMs folder via the Android folder picker and GX Launcher searches all subfolders. Games are recognised by folder name and file content (disc ID, title ID, game code, ROM header) and sorted to the right console. Duplicates, updates and placeholders are hidden.
+
+NEW: COLLECTION & BADGES
+• Progress rings per console: how many of your games you have already played
+• 18 badges to unlock (launches, playtime, collection size, favourites …)
+• "Never played – discover" and a daily "Tip of the day"
+• Overview with "Continue playing", "New in your collection" and collection stats
+
+VIEWS
+• Arc, Cover Flow, Carousel, Shelf, Channel tiles, Grid and List
+• Cartridges instead of cases for cartridge systems
+• Swipe and drag with your finger, control with a gamepad
+• Support for dual-screen devices (e.g. AYN Thor)
+
+LIBRARY
+• Covers are loaded automatically from public sources (GameTDB, libretro thumbnails) and stored offline
+• Region and language with flags, "German games only" filter
+• Search, sorting, favourites and custom collections
+• Game details with playtime, number of launches and your playtime rank
+• Random game wheel
+
+DESIGN
+• 36 themes, incl. 20 GX themes with pulsing neon, liquid glass and ruby glow
+• 4 seasonal themes: Winter Frost, Halloween Pumpkin, Spring Meadow, Summer Sunset
+• 21 switchable app icons, custom colours, theme per console, colours from the cover
+• Seasonal effects, intro, launch animation, screensaver
+
+EXTRAS
+• Save data overview and memory card view for GameCube saves (GCI) with card skins
+• Cheat lists for supported emulators
+• Emulator selectable per console (e.g. Dolphin, Azahar, melonDS, RetroArch, PPSSPP)
+• Updates right inside the app
+• Optional use as home screen
+
+PREMIUM (optional)
+All core features are free, including collection & badges. Premium (monthly/yearly subscription or lifetime) unlocks all themes including seasonal themes, the app icons, custom colours and effects, carousel, shelf and channel views, save data and memory cards with premium skins, cheat menus, statistics, the random game and custom covers. Previews are always free. Individual theme packs are available too. Subscriptions can be cancelled anytime in Google Play.
+
+IMPORTANT
+GX Launcher is a launcher. It contains no games, no ROMs, no BIOS and no emulators. Games and emulators required separately. Only use games you legally own.
+
+GX Launcher is an independent project by Flondy Dev. and is not affiliated with Nintendo, Sony or any other manufacturer. All trademarks belong to their respective owners.
