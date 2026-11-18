@@ -1,0 +1,43 @@
+GX Launcher bringt deine eigene Spielesammlung auf einen Bildschirm – mit großem Coverflow im Stil klassischer Konsolen-Menüs.
+
+Gib deinen ROMs-Ordner über die Android-Ordnerauswahl frei, und GX Launcher sucht alle Unterordner durch. Spiele werden über Ordnernamen und Dateiinhalt erkannt (Disc-ID, Titel-ID, Spielcode, ROM-Header) und der passenden Konsole zugeordnet. Doppelte Dateien, Updates und Platzhalter werden ausgeblendet.
+
+NEU: SAMMLUNG & ABZEICHEN
+• Fortschrittsringe je Konsole: wie viele Spiele du schon gespielt hast
+• 18 Abzeichen zum Freischalten (Spielstarts, Spielzeit, Sammlungsgröße, Favoriten …)
+• „Noch nie gespielt – entdecken“ und täglich ein „Tipp des Tages“
+• Übersicht mit „Weiterspielen“, „Neu in der Sammlung“ und Zahlen zu deiner Sammlung
+
+ANSICHTEN
+• Bogen, Cover Flow, Karussell, Regal, Kanal-Kacheln, Raster und Liste
+• Module statt Hüllen für Cartridge-Systeme
+• Wischen und Ziehen mit dem Finger, Steuerung per Controller
+• Unterstützung für Geräte mit zwei Bildschirmen (z. B. AYN Thor)
+
+BIBLIOTHEK
+• Cover werden automatisch aus öffentlichen Quellen (GameTDB, libretro-Thumbnails) geladen und offline gespeichert
+• Region und Sprache mit Flaggen, Filter „Nur deutsche Spiele“
+• Suche, Sortierung, Favoriten und eigene Sammlungen
+• Spieldetails mit Spielzeit, Anzahl Starts und Platz in deiner Rangliste
+• Zufallsspiel-Glücksrad
+
+DESIGN
+• 36 Designs, davon 20 GX-Designs mit pulsierendem Neon, Liquid Glass und Rubin Glow
+• 4 Saison-Designs: Winter Frost, Halloween Kürbis, Frühlingswiese, Sommer Sonnenuntergang
+• 21 App-Icons zum Wechseln, eigene Farben, Theme pro Konsole, Farben aus dem Cover
+• Jahreszeiten-Effekte, Intro, Spielstart-Animation, Bildschirmschoner
+
+EXTRAS
+• Spielstände-Übersicht und Speicherkarten-Ansicht für GameCube-Spielstände (GCI) mit Karten-Skins
+• Cheat-Listen für unterstützte Emulatoren
+• Emulator pro Konsole wählbar (z. B. Dolphin, Azahar, melonDS, RetroArch, PPSSPP)
+• Updates direkt in der App
+• Optional als Startbildschirm nutzbar
+
+PREMIUM (optional)
+Alle Grundfunktionen sind kostenlos, auch Sammlung & Abzeichen. Mit Premium (Abo monatlich/jährlich oder Lifetime) schaltest du alle Designs inklusive Saison-Designs, die App-Icons, eigene Farben und Effekte, die Ansichten Karussell, Regal und Kanäle, Spielstände und Speicherkarten mit Premium-Skins, Cheat-Menüs, Statistik, das Zufallsspiel und eigene Cover frei. Die Vorschau ist immer frei. Einzelne Design-Pakete gibt es auch separat. Abos sind jederzeit in Google Play kündbar.
+
+WICHTIG
+GX Launcher ist ein Launcher. Er enthält keine Spiele, keine ROMs, kein BIOS und keine Emulatoren. Spiele und Emulatoren separat erforderlich. Verwende nur Spiele, die du rechtmäßig besitzt.
+
+GX Launcher ist ein unabhängiges Projekt von Flondy Dev. und steht in keiner Verbindung zu Nintendo, Sony oder anderen Herstellern. Alle Marken gehören ihren jeweiligen Inhabern.
